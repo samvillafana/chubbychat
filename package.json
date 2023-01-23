@@ -1,0 +1,25 @@
+{
+  "name": "chubbychat",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samvillafana/chubbychat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samvillafana/chubbychat/issues"
+  },
+  "homepage": "https://github.com/samvillafana/chubbychat#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node.js": "^0.0.1-security",
+    "socket.io": "^4.5.4"
+  }
+}
